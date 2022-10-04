@@ -10,6 +10,9 @@
 
 # production
 /build
+/src/assests
+/src/data
+
 
 # misc
 .DS_Store
